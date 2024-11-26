@@ -42,8 +42,6 @@ int main() {
 // 6)Cyclic Palindrome.
 
 
-// Approach 1
-
 #include <iostream>
 #include <algorithm>
 using namespace std;
